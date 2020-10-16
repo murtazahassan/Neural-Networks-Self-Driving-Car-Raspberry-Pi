@@ -1,0 +1,3 @@
+# opencv-python==4.40 (Install from source)(https://youtu.be/ylnjXbcNLJU)
+# pip install numpy==1.16.2
+# pip install tensorflow==1.14.0
